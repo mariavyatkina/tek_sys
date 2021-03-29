@@ -1,2 +1,3 @@
 select * from newtable
 select id from users
+select phoneNumber from customers
