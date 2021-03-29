@@ -1,0 +1,2 @@
+select * from newtable
+select id from users
